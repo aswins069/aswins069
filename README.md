@@ -84,13 +84,17 @@ Hacker mindset at the core — understand how systems break, build them stronger
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aswins&theme=matrix&border=00FF41&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&background=0D0D0D&dates=888888" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aswins&background=0A0F1C&border=00FF41&ring=2979FF&fire=B026FF&currStreakLabel=00FF41&sideNums=00E5FF&currStreakNum=2979FF&dates=C7D1D8" alt="GitHub Streak" />
+
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswins&theme=react-dark&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&area=true&hide_border=false&border_color=00ff41" alt="GitHub Activity Graph" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswins&bg_color=0A0F1C&color=00E5FF&line=2979FF&point=B026FF&area=true&hide_border=false&border_color=00FF41" alt="GitHub Activity Graph" width="100%"/>
 
 </div>
 
